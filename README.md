@@ -75,3 +75,19 @@ Charts & Visualization: Recharts
 Excel Export: xlsx library
 
 🌟 If you find this project useful, consider giving it a star ⭐ on GitHub!
+
+Dependencies:
+
+a) react-icons -> Provides a collection of popular icons as React components, it supports FontAwesome, Material Icons, Bootstrap Icons, and more.
+
+b) axios ->  A promise-based HTTP client for making API requests, it supports automatic JSON conversion and request cancelation.
+
+c) moment -> Used for date/time formatting and manipulation, it supports time zones and local-based formatting.
+
+d) emoji-picker-react -> Adds an emoji picker to your React App, it works with input fields, chat apps, and social media apps.
+
+e) react-router-dom -> Provides client-side routing in React apps, it supports dynamic routes and URL parameters.
+
+f) recharts -> A charting library for React, it supports bar charts, pie charts, line graphs, etc.
+
+g) react-hot-toast -> Adds beautiful toast notification to React apps, it supports different toast types (success, error, loading).
